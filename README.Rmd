@@ -1,0 +1,1 @@
+This project is the first day of learning how to use Github.We learnt how to commit a message, use gitmoji, push and pull.
